@@ -1,5 +1,5 @@
 # exp_memory_test
-
+```
 Total allocated: 267388634 bytes (2373642 objects)
 Total retained:  83211730 bytes (864334 objects)
 
@@ -60,3 +60,4 @@ allocated objects by class
 retained memory by gem
 -----------------------------------
   83211730  json
+```
